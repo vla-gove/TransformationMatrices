@@ -91,7 +91,7 @@ void printMatrix(Matrix mat) {
 }
 
 int main() {
-    // arbitrary joint parameters
+    // setting arbitrary joint parameters
     double theta1 = PI / 3;
     double theta2 = PI / 3;
     double theta3 = PI / 2;
@@ -101,7 +101,7 @@ int main() {
     double theta7 = PI / 4;
     double theta8 = PI / 3;
 
-    // arbitrary link lengths
+    // setting arbitrary link lengths
     double a1 = 0.7;
     double a2 = 0.7;
     double a3 = 0.7;
